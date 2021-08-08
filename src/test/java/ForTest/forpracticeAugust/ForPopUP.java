@@ -19,6 +19,8 @@ public class ForPopUP {
 		driver.get(URL);
 		driver.findElement(By.xpath("//a[text()='Basic Auth']")).click();
 		
+		//Hey Vishal I have added this code..........
+		
 
 
 	}
